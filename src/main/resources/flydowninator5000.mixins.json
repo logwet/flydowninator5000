@@ -4,9 +4,10 @@
   "package": "me.logwet.flydowninator5000.mixin",
   "compatibilityLevel": "JAVA_8",
   "mixins": [
+    "common.EnderDragonMixin"
   ],
   "client": [
-    "client.DebugScreenOverlayMixin",
+    "client.DebugScreenOverlayMixin"
   ],
   "server": [
   ],
